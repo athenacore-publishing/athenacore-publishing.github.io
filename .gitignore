@@ -1,0 +1,11 @@
+*.xls
+*.csv
+.ipynb_checkpoints/
+docs/gen/
+*.pem
+shared/
+.private/
+logs/
+__pycache__
+.vscode
+
